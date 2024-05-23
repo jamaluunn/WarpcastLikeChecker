@@ -1,6 +1,6 @@
-#warpcast like checker
+# Warpcast Like Checker
 
-This Node.js project reads links from a file, fetches hash values from an API, writes those hash values to another file, and then processes those hash values to determine which users have already liked specific content. The results are printed to the console with color coding.
+This Node.js project reads links from a file, fetches hash values from the Neynar API, writes those hash values to another file, and then processes those hash values to determine which users have already liked specific content on Farcaster. The results are printed to the console with color coding.
 
 ## Table of Contents
 
@@ -15,8 +15,8 @@ This Node.js project reads links from a file, fetches hash values from an API, w
 
 1. **Clone the repository**
     ```sh
-    git clone https://github.com/your-username/neynar-farcaster-processor.git
-    cd neynar-farcaster-processor
+    git clone https://github.com/jamaluunn/WarpcastLikeChecker.git
+    cd WarpcastLikeChecker
     ```
 
 2. **Install dependencies**
