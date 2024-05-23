@@ -44,11 +44,11 @@ This Node.js project reads links from a file, fetches hash values from the Neyna
 
 ## Files
 
-- `index.js`: Main script file containing the processing logic.
-- `links.txt`: Input file with URLs to process.
-- `api_key.txt`: File containing the API key for `build.far.quest`.
+- `index.js`: Main script file containing the processing logic. (no need to edit)
+- `links.txt`: Contain cast link that u wanna check.
+- `api_key.txt`: File containing the API key for `build.far.quest`. (no need to edit)
 - `username.txt`: File containing the usernames to check.
-- `Hash.txt`: Output file with hash values obtained from the first API call.
+- `Hash.txt`: Output file with hash values obtained from the first API call. (no need to edit)
 
 ## API Keys
 
